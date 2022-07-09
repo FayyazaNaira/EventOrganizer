@@ -1,0 +1,6 @@
+masukan index di folder view
+dan masukan asset sejajar dengan appication dll
+
+di view home, index.php, di tambah base url
+<?php echo base_url('.../../')?>" >
+lalu fokus ke landing page nya

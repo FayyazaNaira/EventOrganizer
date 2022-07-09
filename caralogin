@@ -1,0 +1,4 @@
+ganti form action
+menjadi <?php echo form_open('login/otentikasi')?>
+dan penutupnya juga
+<?php echo form_close()?>
